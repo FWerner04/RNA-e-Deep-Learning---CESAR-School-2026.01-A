@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Fernando Werner
+# Email: fernandowerner04@gmail.com / fwsp@cesar.school
